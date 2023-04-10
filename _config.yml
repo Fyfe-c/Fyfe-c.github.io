@@ -1,0 +1,97 @@
+# WhatATheme
+markdown: kramdown
+
+# URL of the Site
+url: ''
+# Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
+baseurl: ''
+
+# Title of the Site
+title: Nile Book Store
+# Description of the Site
+description: A simple Book Store Application
+# URL of Image of the Site
+site-image: /WhatATheme/assets/images/meta.jpg
+# Keywords of the Site
+site-keywords: Site, Template, Theme
+# URL for the Image of custom Favicon
+favicon-url: 
+
+# URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
+heroimage: https://cdn.discordapp.com/attachments/402655385598820360/1091873123219017818/Z.png
+
+# Social Media and Contact
+# If you don't want to use any icon, you can leave them blank.
+email: nileappstore@gmail.com
+facebook_username: nileTeam
+twitter_username: NBSTeam
+instagram_username: 
+linkedin_username: 
+github_username:  
+youtube_channel_id: https://www.youtube.com/@NileStore-fh1ot
+reddit_username: 
+behance_username: 
+dribbble_username: 
+spotify_username: 
+
+# Google Analytics
+google-analytics: UA-163806439-1
+
+# Disqus
+disqus-shortname: NileDevelopmentTeam
+
+# Name of the Author
+author-name: Nile Development Team
+# URL for the Image of the Author
+author-image: https://cdn.discordapp.com/attachments/402655385598820360/1092137187425910936/NileLogo.png
+# 60 Words About the Author
+author-about: The Nile Development Team, whos job it was to create the phone application Nile! Handling all of the planning and coding that went into the creation of this wonderful app!!!
+# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
+author-url: https://code.cs.umanitoba.ca/Zen
+
+# SASS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Build settings
+plugins:
+  - jekyll-admin
+  - jekyll-feed
+
+# Permalink
+permalink: "blog/:title"
+
+# Compress
+compress_html:
+  clippings: all
+
+# Defaults
+defaults:
+  -
+    scope:
+      type: 'posts'
+    values:
+      layout: post
+      post-image: ""
+      description: ""
+      tags:
+        - ""
+  -
+    scope:
+      type: 'pages'
+    values:
+      layout: page
+
+# Exclude
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
