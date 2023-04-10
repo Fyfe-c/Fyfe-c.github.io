@@ -1,5 +1,5 @@
 ---
-title: Nile Vision Statement
+title: HiFi Vision Statement
 layout: post
 post-image: "https://cdn.discordapp.com/attachments/1085773515690627132/1095063680858738768/vision.jpeg"
 description: A vision state below is provided to show the details about our application.
