@@ -5,7 +5,7 @@ post-image: "https://cdn.discordapp.com/attachments/1085773515690627132/10950913
 description: the development exprience we gained and the the positive and negative points
 tags:
 - Team
-- Flaws
+- smells
 - Improvements
 ---
 
