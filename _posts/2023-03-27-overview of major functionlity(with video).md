@@ -24,4 +24,4 @@ In HiFi app you can add the product into your cart, and went to the cart page us
 The major functionality of the app
 
 **Tutorial Video**<br>
-<iframe width="780" height="500" src="https://youtu.be/dsIElb0v_9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/dsIElb0v_9c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
