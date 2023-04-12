@@ -1,5 +1,5 @@
 ---
-title: the overview of major functionality
+title: the overview of major functionality(with video)
 layout: post
 post-image: "https://cdn.discordapp.com/attachments/1085773393871253545/1095573242065977405/overview_of_func.jpeg"
 description: the development exprience we gained and the the positive and negative points
