@@ -8,7 +8,7 @@ tags:
 - search
 - video
 - cart
-
+---
 
 ## The featured items:
 In HiFi you can view the newest electionics in easest way, once you opened the app, you can click on the product you would like to see, there will be the price and product description shown, you can add it to your cart and also add it to your wishlist as well.
