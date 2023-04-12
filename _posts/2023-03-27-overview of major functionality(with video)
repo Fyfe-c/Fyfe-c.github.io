@@ -1,12 +1,10 @@
 ---
-title: the overview of major functionality
+title: Login/Registration
 layout: post
-post-image: "https://cdn.discordapp.com/attachments/1085773393871253545/1095573242065977405/overview_of_func.jpeg"
-description: the development exprience we gained and the the positive and negative points
+post-image: "https://cdn.discordapp.com/attachments/402655385598820360/1092527622199726120/login.png"
+description: A description of the Login and Registration pages with a video tutorial.
 tags:
-- login
-- search
-- video
-- cart
-
+- Login
+- Registration
+- Tutorial
 ---
