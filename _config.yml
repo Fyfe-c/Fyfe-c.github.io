@@ -22,7 +22,7 @@ heroimage: https://cdn.discordapp.com/attachments/1085773515690627132/1095074662
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
-email: hifi@gmail.com
+email: bianfengfan@gmail.com
 facebook_username: thedevslot
 twitter_username: thedevslot
 instagram_username: thedevslot
@@ -60,7 +60,7 @@ plugins:
   - jekyll-feed
 
 # Permalink
-permalink: "blog/:title"
+# permalink: "blog/:title"
 
 # Compress
 compress_html:

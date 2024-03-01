@@ -1,53 +1,61 @@
-# WhatATheme
-**WhatATheme** is a customizable Jekyll Portfolio theme which supports blogging. You can use this theme in order to create an elegant, fully responsive portfolio.
+### Fengfan Bian
 
-#### You can checkout the [**Demo Here**](https://thedevslot.github.io/WhatATheme/) :boom:
+* 61X Townsend Ave, Winnipeg, MB R3T 2XX
+* +1 (431) 990 14XX | bianfengfan@gmail.com
+* [My Linkedin](www.linkedin.com/in/fengfan-bian-3b32a1252) | [My Github](https://github.com/Fyfe-c)
 
-![WhatATheme](assets/images/meta.jpg)
+**Objective** Aspiring Computer Science student with a strong foundation in programming and software development, seeking a challenging role in a dynamic tech environment where I can contribute and further develop my skills.
 
-# Features :sparkles:
-* Free and Easy setup
-* No Coding Required
-* Compatible with [Github Pages](https://pages.github.com/)
-* Responsive and Blogging Ready
-* HTML Compressor using [Jekyll Compress HTML](https://jch.penibelst.de/)
-* Minified CSS using SaSS
-* CMS Admin Support using [Jekyll Admin](https://jekyll.github.io/jekyll-admin/)
-* Supports Latest [Jekyll 4.x](https://jekyllrb.com/) and [Bundler](https://bundler.io/)
-* Stylesheet built using SaSS
-* Comments using Disqus
-* Analytics using Google Analytics
-* Instant Search using [Simple Jekyll Search](https://github.com/christian-fei/Simple-Jekyll-Search/)
+### Education
+* **Bachelor of Science in Computer Science, Minor in Mathematics** University of Manitoba, Expected Graduation: June 22, 2024
+    * **GPA**: 3.38/4.5
 
-# Installation :books:
-### System Requirements
-* [Ruby](https://www.ruby-lang.org/en/)
-* [Jekyll](https://jekyllrb.com/)
-> You can read **What is Jekyll** [**here**](https://thedevslot.github.io/WhatATheme/blog/what-is-jekyll-how-to-use-it)
-### Up and Running
-* Fork the [Repository](https://github.com/thedevslot/WhatATheme/)
-* Clone or download the repository into directory of your choice: `git clone https://github.com/thedevslot/WhatATheme.git`
-* Inside the directory run `bundle install`
-* Host WhatATheme locally by running `bundle exec jekyll s`
+     * Relevant Coursework: Computing Ideas and Innovation, Linear Algebra, Introductory
+Calculus, Basic Statistics, Data Structures and Algorithms, Databases Concepts, Artificial
+Intelligence, Distributed Computing, Human-Computer Interaction, Data Mining.
+    * **Honors:** Dean's Honour List, Summer 2023
 
-> You can read **How to Install and use WhatATheme?** [**here**](https://thedevslot.github.io/WhatATheme/blog/how-to-install-whatatheme)
+### Skills
+* **Programming Languages:** Proficient in Java, Python; Familiar with C, C++, R, SQL, NoSQL (Neo4j), SQLite3
+* **Tools & Technologies:** Android Studio, Visual Studio Code, CLion, IntelliJ IDEA, R Studio, Linux Command Line, DB Browser, Microsoft Visual Studio, Excel
+* **Frameworks & Libraries:** d3.js (JavaScript)
+* **Others:** Experienced in using ChatGPT for code planning, research, and increasing efficiency
+* **Soft Skills:** Strong team player, confident, proactive, and culturally adaptive
 
-[<img src="https://i.imgur.com/TVI946Z.png" width="250" />](https://youtu.be/VfPa2c9kwhQ)
+### Project & Internship Experience
+* Borealis AI Let’s SOLVE It Mentorship Program (Internship) University of Manitoba, Oct - Dec 2023
 
----
+    * Collaborated in a team to utilize AI and Machine Learning for community challenges.
+    * Developed a Machine Learning model to enhance tornado forecasting, significantly
+improving prediction accuracy.
+    * Tools used: Python, Machine Learning algorithms (Logistic Regression, Recurrent Neural
+Networks).
+    * Presented findings to Borealis AI team and documented in a public GitHub repository: UM
+Bison Project (in github) UM Bison
 
-### Content Credits :green_heart:
-* [Hero Image](https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) used as a background image in the very first section of Homepage.
-* [Author Image](https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png) used in the Author Section.
-* [Font Awesome](https://fontawesome.com/)
-* [Poppins Font](https://fonts.google.com/specimen/Poppins)
-* [Memphis Pattern](https://www.freepik.com/free-vector/memphis-pattern-background_4034913.htm#page=1&query=memphis%20pattern&position=23) used for some Social Media Images and the Favicon.
+* **Full-Stack Web Development for Book Purchasing Platform (Academic Project)** COMP 3020,
+Human Computer Interaction 1, Fall 2023
 
----
+    * Designed and implemented a full-stack web application to facilitate book purchasing for
+students.
+  
+    * Employed HTML, CSS, JavaScript, and d3.js for front-end development.
+    * Collaborated on all stages of design and development, from ideation to high-fidelity
+implementation.
+    * [COMP3020-Group-File](https://github.com/COMP3020-project/COMP3020-Group-File) (in github)
 
-### Credits :bulb:
-* [Sneha Omer](http://sassyecoder.github.io/)
-* [Harsh Trivedi](http://harsh98trivedi.github.io/)
+* **HiFi Electronics Purchasing Application (Academic Project)** COMP 3350, Software Engineering 1, Winter 2023
 
-### License
-The contents of this repository are licensed under the [**GNU General Public License v2.0**](https://github.com/thedevslot/WhatATheme/blob/master/LICENSE)
+    * Developed an Android application for browsing and purchasing electronics and computer parts.
+    * Implemented Agile techniques, from initial concept through various iterations of development.
+    * Integrated backend with SQL database and performed unit, iteration, and system testing.
+    * [HIFI](https://code.cs.umanitoba.ca/comp3350-winter2023/a01-g05-highfive) (Private Repository)
+
+* **POS System and NBA Database UI Design**
+    * Developed a simple POS system in Java and a UI design for an NBA database, demonstrating proficiency in Java and UI/UX principles.
+    * [NBA Database UI Project](https://github.com/Fyfe-c/NBA-Search-db.git) (in github)
+
+### Extracurricular Activities
+* Algorithmic Problem Solving
+    * Solved over 150 algorithmic problems on LeetCode (Profile): https://leetcode.com/Fyfe/
+
