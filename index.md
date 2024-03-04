@@ -1,7 +1,7 @@
 ### Fengfan Bian
 
-* 61X Townsend Ave, Winnipeg, MB R3T 2XX
-* +1 (431) 990 14XX | bianfengfan@gmail.com
+* 61X Townsend Ave, Winnipeg, MB R3T 2V3
+* +1 (431) 990 1413 | bianfengfan@gmail.com
 * [My Linkedin](www.linkedin.com/in/fengfan-bian-3b32a1252) | [My Github](https://github.com/Fyfe-c)
 
 **Objective** Aspiring Computer Science student with a strong foundation in programming and software development, seeking a challenging role in a dynamic tech environment where I can contribute and further develop my skills.
