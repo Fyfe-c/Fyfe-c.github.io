@@ -8,7 +8,7 @@
 
 ### Education
 * **Bachelor of Science in Computer Science, Minor in Mathematics** University of Manitoba, Expected Graduation: June 22, 2024
-    * **GPA**: 3.38/4.5
+    * **GPA**: 3.48/4.5
 
      * Relevant Coursework: Computing Ideas and Innovation, Linear Algebra, Introductory
 Calculus, Basic Statistics, Data Structures and Algorithms, Databases Concepts, Artificial
