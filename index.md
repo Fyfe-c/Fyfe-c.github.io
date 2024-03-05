@@ -57,5 +57,5 @@ implementation.
 
 ### Extracurricular Activities
 * Algorithmic Problem Solving
-    * Solved over 150 algorithmic problems on LeetCode (Profile): https://leetcode.com/Fyfe/
+    * Solved over 150 algorithmic problems on LeetCode (Profile): [leetcode](https://leetcode.com/Fyfe/)
 
