@@ -1,6 +1,6 @@
 ### Fengfan Bian
 
-* 61X Townsend Ave, Winnipeg, MB R3T 2V3
+* 615 Townsend Ave, Winnipeg, MB R3T 2V3
 * +1 (431) 990 1413 | bianfengfan@gmail.com
 * [My Linkedin](https://www.linkedin.com/in/fengfan-bian-3b32a1252/) | [My Github](https://github.com/Fyfe-c)
 
