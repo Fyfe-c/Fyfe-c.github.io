@@ -123,7 +123,7 @@ Keep learning, keep improving, and let your online resume be the bridge to your 
 
 ## Authors and Acknowledgements
 
-**Author:** Your Name ([GitHub Profile](https://github.com/Fyfe-c))
+**Author:** Fengfan Bian ([GitHub Profile](https://github.com/Fyfe-c))
 
 **Acknowledgements:** Special thanks to Anthony Phung and all who provided feedback and support.
 
