@@ -14,11 +14,8 @@ Before starting, ensure you have the following:
 
 ## Contents
 
-- [Instructions](#Instructions)
-  - [Creating the Repository](#creating-the-repository)
-- [Jekyll Themes](#jekyll-themes)
-  - [Downloading Jekyll](#downloading-jekyll)
-  - [Selecting a Quick Theme](#selecting-a-quick-theme)
+- [Creating the Repository](#creating-the-repository)
+- [Selecting a Quick Theme](#selecting-a-quick-theme)
 - [Publishing Your Resume on GitHub Pages](#publishing-your-resume-on-github-pages)
 - [Principles of Modern Technical Writing](#principles-of-modern-technical-writing)
 - [FAQs](#faqs)
