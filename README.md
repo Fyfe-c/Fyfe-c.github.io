@@ -15,6 +15,7 @@ Before starting, ensure you have the following:
 1. A resume formatted in Markdown. If you're new to Markdown, consider going through a [Markdown Tutorial](https://www.markdowntutorial.com/).
 2. A [GitHub account](https://github.com/signup) - sign up if you haven't already.
 3. Familiarity with GitHub Pages. Check out [GitHub Pages documentation](https://pages.github.com/) for a primer.
+4. The Visual Studio Code needed, if don't have one please inform [here](https://code.visualstudio.com/), also please read the document [how to set up Visual Studio Code](https://code.visualstudio.com/docs), ensure you know how to create file.
 
 # The Principles of Modern Technical Writing
 
@@ -70,7 +71,7 @@ As we embark on this journey, let's keep in mind the principles outlined by Andr
 ![Theme Page](Gifs/themepage.gif)
 
 2. Configure the theme on your repository's settings.
-add the new file called "_config.yml" which include the theme commend line we just copied. e.g.
+add the new file called "_config.yml" in Visual Studio Code which include the theme commend line we just copied. e.g.
 ```
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
@@ -81,7 +82,9 @@ plugins:
 ## Publishing Your Resume on GitHub Pages
 
 1. Commit and push your changes to the repository.
-
+change the resume file name into "index.md" then drag and drop the file into github respository
+![GitHub Pages Section](Gifs/commit&push.gif)
+also do this for the file of "_config.yml"
 2. Enable GitHub Pages in your repository's settings, under the "GitHub Pages" section.
 
 ![GitHub Pages Section](Gifs/hostpage.gif)
