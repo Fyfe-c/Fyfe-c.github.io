@@ -128,5 +128,9 @@ Keep learning, keep improving, and let your online resume be the bridge to your 
 
 **Author:** Fengfan Bian ([GitHub Profile](https://github.com/Fyfe-c))
 
+Thanks for all my mate:
+Jacob Seraspi ([GitHub Profile](https://github.com/jacobseraspi))
+Farah Hegazi ([GitHub profile](https://github.com/farahhegazi))
+
 **Acknowledgements:** Special thanks to Anthony Phung and all who provided feedback and support.
 
