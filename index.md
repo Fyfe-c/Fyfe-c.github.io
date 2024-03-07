@@ -23,7 +23,7 @@ Intelligence, Distributed Computing, Human-Computer Interaction, Data Mining.
 * **Soft Skills:** Strong team player, confident, proactive, and culturally adaptive
 
 ### Project & Internship Experience
-* Borealis AI Let’s SOLVE It Mentorship Program (Internship) University of Manitoba, Oct - Dec 2023
+* Borealis AI Let’s SOLVE It Mentorship Program (Internship) Borealis AI(the R&D arm of the Royal Bank of Canada), Oct - Dec 2023
 
     * Collaborated in a team to utilize AI and Machine Learning for community challenges.
     * Developed a Machine Learning model to enhance tornado forecasting, significantly
@@ -31,7 +31,7 @@ improving prediction accuracy.
     * Tools used: Python, Machine Learning algorithms (Logistic Regression, Recurrent Neural
 Networks).
     * Presented findings to Borealis AI team and documented in a public GitHub repository: UM
-Bison Project (in github) UM Bison
+Bison Project (in github) UM Bison(github)[https://github.com/Fyfe-c/UM-Bison]
 
 * **Full-Stack Web Development for Book Purchasing Platform (Academic Project)** COMP 3020,
 Human Computer Interaction 1, Fall 2023
