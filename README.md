@@ -82,10 +82,13 @@ plugins:
 ## Publishing Your Resume on GitHub Pages
 
 1. Commit and push your changes to the repository.
-change the resume file name into "index.md" then drag and drop the file into github respository
+
+    *  change the resume file name into "index.md" then drag and drop the file into github respository.
 ![GitHub Pages Section](Gifs/commit&push.gif)
-also do this for the file of "_config.yml"
-2. Enable GitHub Pages in your repository's settings, under the "GitHub Pages" section.
+
+    * Commit and push your _config.yml as well by using the same step you did in the first step.
+
+3. Enable GitHub Pages in your repository's settings, under the "GitHub Pages" section.
 
 ![GitHub Pages Section](Gifs/hostpage.gif)
 
