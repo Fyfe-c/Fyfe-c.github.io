@@ -111,8 +111,16 @@ Keep learning, keep improving, and let your online resume be the bridge to your 
 
 ## FAQs
 
-- **Why is my resume not showing up?** Ensure the file is named `index.md` and committed to the repository.
-- **What tools can I use for Markdown editing?** Consider online editors like Dillinger or IDEs with Markdown support such as Visual Studio Code.
+- **Why is Markdown better than a word processor**     
+    * Simple and Efficient: Markdown's syntax is straightforward, allowing you to format text quickly and easily, making it user-friendly.
+    * Good for Version Control: Markdown files are just plain text, which works well with version control systems (like Git). This is important for projects with multiple contributors.
+    * Portable and Flexible: Since Markdown files are lightweight and text-based, you can open them with any text editor. Also, you can convert Markdown to many formats like HTML, PDF, and Word.
+    * Content-focused: Markdown lets you concentrate on your content without worrying about complex formatting, which is especially valuable for technical documentation.
+- **Why is my resume not showing up?** 
+    * Inappropriate Keywords: Job platforms often use keywords to filter resumes. Make sure your resume includes relevant keywords for your industry.
+    * Formatting Issues: Complex formatting may confuse the algorithms of job platforms. Use simple formatting to ensure your resume is read correctly.
+    * Profile Visibility Settings: Check your settings on the platform. Your resume might be set to private or invisible to employers.
+    * Incomplete Profile: Some platforms prioritize profiles that are complete. Ensure all necessary sections of your profile are filled out.
 
 ---
 
